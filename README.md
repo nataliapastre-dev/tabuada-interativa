@@ -1,52 +1,54 @@
-# 🧮 Tabuada Interativa Avançada
+# 🧮 Tabuada Interativa
 
-A **Tabuada Interativa Avançada** é uma aplicação web educativa desenvolvida para tornar o aprendizado de multiplicação mais visual, interativo e moderno. O projeto combina **desenvolvimento front-end responsivo**, **personalização de cores**, **exportação de dados** e **boa experiência do usuário**, sendo ideal para inclusão em portfólio profissional.
+Uma aplicação web interativa para aprender tabuada de forma visual, moderna e personalizável. Ideal para estudo e portfólio, demonstrando habilidades em **Front-End, UX/UI e integração com bibliotecas externas**.
 
 ---
 
 ## 🌟 Funcionalidades
 
-- **Escolha do número base**: O usuário seleciona qual tabuada deseja visualizar.
-- **Personalização do layout**: Configuração de cores para tornar a experiência mais agradável.
-- **Exportação de resultados**:
-  - Excel (.xlsx) via SheetJS
-  - PDF (.pdf) via jsPDF
-- **Layout tipo dashboard**: Visualização clara, organizada e interativa.
-- **Responsivo**: Funciona bem em diferentes tamanhos de tela, de desktop a mobile.
-- **Feedback visual**: Destaques e animações leves para melhorar a experiência de aprendizado.
+- Escolha do número da tabuada.
+- Personalização de cores do layout.
+- Exportação de resultados para **Excel** e **PDF**.
+- Layout tipo **dashboard**, responsivo e interativo.
+- Feedback visual para melhor experiência de aprendizado.
 
-> 💡 **Diferencial**: O projeto não é apenas funcional, mas também demonstra atenção à experiência do usuário, design visual e uso de bibliotecas modernas para exportação de dados.
+> 💡 **Diferencial:** Foco em usabilidade e design, com aplicação prática de JavaScript moderno e bibliotecas externas.
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5** – Estrutura semântica do projeto.
-- **CSS3** – Estilos modernos, responsivos e interativos.
-- **JavaScript (ES6)** – Lógica da tabuada, interatividade e exportações.
-- **SheetJS** – Exportação de dados em Excel.
-- **jsPDF** – Exportação de resultados em PDF.
-- **LocalStorage** – Armazenamento de configurações e últimas escolhas do usuário.
+- HTML5, CSS3 e JavaScript (ES6)
+- SheetJS (exportação Excel)
+- jsPDF (exportação PDF)
+- LocalStorage (armazenamento de preferências do usuário)
 
 ---
 
 ## 📸 Demonstração
 
-![Dashboard da Tabuada](imagens/tabuada-dashboard.png)
-
-> O layout é moderno, com cores configuráveis e elementos interativos que tornam a prática mais engajante.
+![Tabuada Interativa](https://i.postimg.cc/G2jmGR5H/Tabuada-Interativa-com-Resultados-Coloridos.png)
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Links
 
-1. Clone o repositório:
+- Repositório no GitHub: [https://github.com/nataliapastre-dev/tabuada-interativa](https://github.com/nataliapastre-dev/tabuada-interativa)  
+- Versão online (GitHub Pages): [https://nataliapastre-dev.github.io/tabuada-interativa/](https://nataliapastre-dev.github.io/tabuada-interativa/)
 
-```bash
-git clone https://github.com/natipastre/tabuada-interativa-avancada.git
+---
 
-GitHub: https://github.com/natipastre
+## 👩‍💻 Sobre a Autora
 
-LinkedIn: https://www.linkedin.com/in/nataliapastre
+**Natália Baptista Pastre** – Estudante de Análise e Desenvolvimento de Sistemas, migrando da Administração para Tecnologia, com experiência em análise de dados, automação de processos e visualização de informações.  
 
-💡 Este projeto demonstra competências em Front-End, UX/UI, JavaScript avançado e integração com bibliotecas externas, tornando-o relevante para estágios ou posições juniores em desenvolvimento web.
+- [GitHub](https://github.com/natipastre)  
+- [LinkedIn](https://www.linkedin.com/in/nataliapastre)
+
+> Este projeto demonstra competências em **Front-End, UX/UI, JavaScript avançado e integração com bibliotecas**, ideal para portfólio de estágio ou posições júnior.
+
+---
+
+## 📄 Licença
+
+MIT License
