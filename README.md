@@ -27,7 +27,9 @@ Uma aplicação web interativa para aprender tabuada de forma visual, moderna e 
 
 ## 📸 Demonstração
 
-![Tabuada Interativa](https://i.postimg.cc/G2jmGR5H/Tabuada-Interativa-com-Resultados-Coloridos.png)
+<p align="center">
+  <img src="https://i.postimg.cc/G2jmGR5H/Tabuada-Interativa-com-Resultados-Coloridos.png" width="600">
+</p>
 
 ---
 
