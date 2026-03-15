@@ -33,10 +33,6 @@ Uma aplicação web interativa para aprender tabuada de forma visual, moderna e 
 
 ---
 
-## 🚀 Links
-
-- Repositório no GitHub: [https://github.com/nataliapastre-dev/tabuada-interativa](https://github.com/nataliapastre-dev/tabuada-interativa)  
-- Versão online (GitHub Pages): [https://nataliapastre-dev.github.io/tabuada-interativa/](https://nataliapastre-dev.github.io/tabuada-interativa/)
 
 ---
 
