@@ -31,7 +31,10 @@ Uma aplicação web interativa para aprender tabuada de forma visual, moderna e 
   <img src="https://i.postimg.cc/G2jmGR5H/Tabuada-Interativa-com-Resultados-Coloridos.png" width="600">
 </p>
 
+---
+## 🚀 Links
 
+- Repositório no GitHub: [https://github.com/nataliapastre-dev/tabuada-interativa](https://github.com/nataliapastre-dev/tabuada-interativa)  
 ---
 
 ## 👩‍💻 Sobre a Autora
